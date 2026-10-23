@@ -1,0 +1,7 @@
+1. introduction tryhckme with a xploiting vulnerabilities in a fkebnk and defender
+2. I usedshodan to scan device and check some vulnerabity and how to filter with pais, port, org and hostname 
+3. I used virusTotal to detect virus using more than 70  antivirus engine, testing with a file
+4. I saw the common vulnerabilty and exposure in the dictionary of known vulnerabilties (CVE-YEAR-NUMBER)
+5. technical documentation (man)
+6. github, aprendí que existen repositorios que te ayudan a estar actualizados y conocer las amenazas mas recientes y sus vulnerabilidades, sin embargo no se puede confiar en todos los Poc disponibles(contenidos a medias o arhivos maliciosos)
+7. 
